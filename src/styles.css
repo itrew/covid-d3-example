@@ -1,0 +1,26 @@
+.county-fill {
+  fill: none;
+  stroke: none;
+}
+
+.county-outline {
+  fill: none;
+  stroke: black;
+  stroke-width: 1px;
+}
+
+.county-fill.phase-phase-1 {
+  fill: #437A75;
+}
+
+.county-fill.phase-phase-2.phase-app-approved {
+  fill: #BF7860;
+}
+
+.county-fill.phase-phase-1.phase-app-eligible-counties-that-have-not-applied {
+  fill: #D9D78C;
+}
+
+.county-fill.phase-phase-2.phase-app-applied-and-still-under-review {
+  fill: #72231F;
+}
